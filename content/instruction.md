@@ -32,4 +32,14 @@ Your partner follows steps X through X, but uses the URL of **your** repository.
 ## Local
 1. Open a terminal and navigate to the root project folder
 1. Using the terminal, run `git clone <repo>` where `<repo>` is the url of your repository. You can find this URL by clicking the big green button `<> Code`, and copying the HTTPS URL.
+1. Open Visual Studio Code and open (`File/Open Folder`) the folder where your repo was cloned into.
 
+You and your partner can now take turns in writing a poem.
+
+## Pulling & Pushing changes
+
+In order to synchronize the changes you and your partner make to the repository, you will need to **pull** (your partner's) changes _from_ the repository and **push** (your) changes _to_ the repository.
+
+### Pull
+1. Open Visual Studio Code, and make sure you have opened the folder of the local repo.
+1. Navigate to `Source Control`, --------
