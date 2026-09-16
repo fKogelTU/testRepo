@@ -5,7 +5,8 @@
 <div style="text-align: center;">
 <H2> For the love of physics</H2>
 
-When I think about physics, 
-schrijf ik een tweede lijn in mijn document,
+When I think about physics,  
+schrijf ik een tweede lijn in mijn document,  
+en denk, _gitgitgit_
 
 </div>
